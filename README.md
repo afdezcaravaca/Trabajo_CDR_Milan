@@ -79,8 +79,8 @@ El análisis está dividido en varios notebooks de Jupyter:
 
 Este proyecto se basa en el dataset público del "Telecom Italia Big Data Challenge". Se da crédito completo a los autores y organizadores.
 
-  * **Artículo (Cita):** [[Barlacchi, G., De Nadai, M., Larcher, R., Casella, A., Chitic, C., Torrisi, G., ... & Lepri, B. (2015). A multi-source dataset of urban life in the city of Milan and the Province of Trentino. Scientific Data, 2, Artículo 150055.](https://doi.org/10.1038/sdata.2015.55)]
+  * **Artículo:[Barlacchi, G., De Nadai, M., Larcher, R., Casella, A., Chitic, C., Torrisi, G., ... & Lepri, B. (2015). A multi-source dataset of urban life in the city of Milan and the Province of Trentino. Scientific Data, 2, Artículo 150055.:** https://doi.org/10.1038/sdata.2015.55
 
 ### Agradecimientos
 
-* **Repositorio geojson:** [Subbiah, A. (2021). milan-telecom-data-modeling.]** ([[ENLACE A SU REPOSITORIO AQUÍ]](https://github.com/arunasubbiah/milan-telecom-data-modeling)). Su código me sirvió para visualizar el grid.
+* **Repositorio Subbiah, A. (2021). milan-telecom-data-modeling:** https://github.com/arunasubbiah/milan-telecom-data-modeling. 
