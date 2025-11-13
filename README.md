@@ -18,8 +18,8 @@ El proyecto implementa un pipeline completo:
 
 1.  [Sobre el Proyecto](https://github.com/afdezcaravaca/Trabajo_CDR_Milan/blob/main/README.md#-sobre-el-proyecto)
 2.  [Datasets Requeridos](https://github.com/afdezcaravaca/Trabajo_CDR_Milan/blob/main/README.md#-datasets-requeridos)
-3.  [Descripción de los Códigos](https://github.com/afdezcaravaca/Trabajo_CDR_Milan/blob/main/README.md#Descripción-de-los-Códigos)
-4.  [Créditos y Agradecimientos](https://github.com/afdezcaravaca/Trabajo_CDR_Milan/blob/main/README.md#Créditos-y-Agradecimientos)
+3.  [Descripción de los Códigos](https://github.com/afdezcaravaca/Trabajo_CDR_Milan/blob/main/README.md#descripción-de-los-códigos)
+4.  [Créditos y Agradecimientos](https://github.com/afdezcaravaca/Trabajo_CDR_Milan/blob/main/README.md#créditos-y-agradecimientos)
 
 -----
 
