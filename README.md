@@ -16,11 +16,11 @@ El proyecto implementa un pipeline completo:
 
 ## 📋 Índice
 
-1.  [Sobre el Proyecto](https://www.google.com/search?q=%23-sobre-el-proyecto)
-2.  [Datasets Requeridos](https://www.google.com/search?q=%23-datasets-requeridos)
-3.  [Instalación y Entorno](https://www.google.com/search?q=%23-instalaci%C3%B3n-y-entorno)
-4.  [Descripción de los Códigos](https://www.google.com/search?q=%23-descripci%C3%B3n-de-los-c%C3%B3digos)
-5.  [Créditos y Agradecimientos](https://www.google.com/search?q=%23-cr%C3%A9ditos-y-agradecimientos)
+1.  [Sobre el Proyecto]
+2.  [Datasets Requeridos]
+3.  [Instalación y Entorno]
+4.  [Descripción de los Códigos]
+5.  [Créditos y Agradecimientos]
 
 -----
 
@@ -79,7 +79,7 @@ El análisis está dividido en varios notebooks de Jupyter:
 
 Este proyecto se basa en el dataset público del "Telecom Italia Big Data Challenge". Se da crédito completo a los autores y organizadores.
 
-  * **Artículo:[Barlacchi, G., De Nadai, M., Larcher, R., Casella, A., Chitic, C., Torrisi, G., ... & Lepri, B. (2015). A multi-source dataset of urban life in the city of Milan and the Province of Trentino. Scientific Data, 2, Artículo 150055.:** https://doi.org/10.1038/sdata.2015.55
+  * **ArtículoBarlacchi, G., De Nadai, M., Larcher, R., Casella, A., Chitic, C., Torrisi, G., ... & Lepri, B. (2015). A multi-source dataset of urban life in the city of Milan and the Province of Trentino. Scientific Data, 2, Artículo 150055:** https://doi.org/10.1038/sdata.2015.55
 
 ### Agradecimientos
 
