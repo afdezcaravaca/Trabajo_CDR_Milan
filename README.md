@@ -4,6 +4,8 @@
 # 📶 Análisis de Datos CDR - Milán
 Trabajo CDR's Milán del Máster Inteligencia Computacional y el Internet de las Cosas de la Universidad de Córdoba.
 
+⚠️ **Recomendación:** visualizar los Notebooks con temas claros en VSCode.
+
 Este repositorio contiene el análisis de los datos del **"Telecom Italia Big Data Challenge"** utilizando **MongoDB**, enfocado en la actividad de la red de telecomunicaciones (SMS, llamadas, internet) en la ciudad de Milán.
 
 El proyecto implementa un pipeline completo:
