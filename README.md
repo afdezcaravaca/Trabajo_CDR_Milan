@@ -44,8 +44,8 @@ Para ejecutar los análisis, es necesario descargar los datasets oficiales del d
 
 | Fichero | Descripción | Enlace de Descarga |
 | :--- | :--- | :--- |
-| `milano-grid.geojson` | Contiene la cuadrícula geoespacial de Milán, con el `cellid` de cada celda. | **([Enlace_descarga](https://www.kaggle.com/datasets/muzamalrazasoomro/milano-grid))** |
-| `sms-call-internet-mi-*.txt` | Datos CDR (SMS, llamadas, internet). | **([Repositorio de datos](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGZHFV))** |
+| `milano-grid.geojson` | Contiene la cuadrícula geoespacial de Milán, con el `cellid` de cada celda. | **[Enlace](https://www.kaggle.com/datasets/muzamalrazasoomro/milano-grid)** |
+| `sms-call-internet-mi-*.txt` | Datos CDR (SMS, llamadas, internet). | **[Enlace](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGZHFV)** |
 
 En concreto, se analizan los datos de la semana 22/12/2013 - 28/12/2013:
 1. sms-call-internet-mi-2013-12-22.txt (Lunes)
